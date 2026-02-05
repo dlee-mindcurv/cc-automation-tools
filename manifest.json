@@ -6,7 +6,8 @@
     { "name": "pdm-ralph-loop", "path": "skills/pdm-ralph-loop", "description": "Agent instructions for Ralph iterations" },
     { "name": "pdm-code-reviewer", "path": "skills/pdm-code-reviewer", "description": "Comprehensive code review skill" },
     { "name": "pdm-webapp-testing", "path": "skills/pdm-webapp-testing", "description": "Browser testing with Playwright" },
-    { "name": "pdm-react-best-practices", "path": "skills/pdm-react-best-practices", "description": "React/Next.js performance optimization" }
+    { "name": "pdm-react-best-practices", "path": "skills/pdm-react-best-practices", "description": "React/Next.js performance optimization" },
+    { "name": "pdm-jest-react-testing", "path": "skills/pdm-jest-react-testing", "description": "React component testing with Jest and React Testing Library" }
   ],
   "commands": [
     { "name": "pdm-code-review.md", "path": "commands/pdm-code-review.md", "description": "Code quality review" },
