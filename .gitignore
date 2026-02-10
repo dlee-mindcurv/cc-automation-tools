@@ -37,4 +37,4 @@ build/
 # Logs
 *.log
 logs/
-.claude/settings.local.json
+project-dev-manager/.claude/settings.local.json
